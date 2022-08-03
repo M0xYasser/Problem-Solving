@@ -1,2 +1,2 @@
 # Problem-Solving
-[ CodeForces - AtCoder ] Problems Solving
+[ CodeForces - AtCoder ] Problems Solutions
