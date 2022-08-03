@@ -1,0 +1,18 @@
+#include <iostream>
+ using namespace std;
+ int main()
+{
+    int x(0),n;
+    string X;
+    cin>> n;
+    for (int i(0);i<n;i++){
+        cin>>X;
+        if (X=="X++"|| X=="++X"){
+            x++;
+        }else if (X=="X--"|| X=="--X"){
+            x--;
+        }
+    }
+    cout<< x<<endl;
+    return 0;
+}
